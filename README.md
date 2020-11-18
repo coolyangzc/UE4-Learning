@@ -21,3 +21,11 @@ APK Link: https://cloud.tsinghua.edu.cn/f/e5bce0a2550b49e5a14b/
 Captured Video Link: https://cloud.tsinghua.edu.cn/f/58ae5c146cdf449f8403/
 
 APK Link: https://cloud.tsinghua.edu.cn/f/ea6bced177b64019b5ba/
+
+# HW4
+
+> Animation Montage (Recoil, Jump, RunJump, Reload, etc.), Particle Effect (Muzzle Flash), Free POV
+
+Captured Video Link: https://cloud.tsinghua.edu.cn/f/aa26aa3b5e124f99905d/
+
+APK Link: https://cloud.tsinghua.edu.cn/f/8e397a2af5c5428eb4f0/
