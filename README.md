@@ -33,3 +33,8 @@ APK Link: https://cloud.tsinghua.edu.cn/f/8e397a2af5c5428eb4f0/
 # HW5
 
 > Weapon Pickup/Change System, AnimNotifies (Reloading sound effect), Physics (Explosion, Impulse, Density, Restitution, etc.), Line Tracing
+
+Captured Video Link: https://cloud.tsinghua.edu.cn/f/ea96c8eebc3046d394da/
+
+APK Link: https://cloud.tsinghua.edu.cn/f/ea96c8eebc3046d394da/
+
