@@ -58,3 +58,13 @@ Captured Video Link (PC: Server & Client1): https://cloud.tsinghua.edu.cn/f/f69a
 Captured Video Link	(Mobile: Client2): https://cloud.tsinghua.edu.cn/f/32e9c536afe94efc9e4b/
 
 APK Link: https://cloud.tsinghua.edu.cn/f/8ced474c1f454f36b430/
+
+# HW7
+
+> AI (Chasing, Focusing, Moving)  
+> Environment Query System  
+> Navigation Mesh
+
+Captured Video Link: https://cloud.tsinghua.edu.cn/f/b19c44a757db4f79b17f/
+
+APK Link: https://cloud.tsinghua.edu.cn/f/ed35fa828e0a40238d78/
