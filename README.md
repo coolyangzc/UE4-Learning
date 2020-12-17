@@ -61,7 +61,7 @@ APK Link: https://cloud.tsinghua.edu.cn/f/8ced474c1f454f36b430/
 
 # HW7
 
-> AI (Chasing, Focusing, Moving)  
+> AI (Chasing, Focusing, Firing)  
 > Environment Query System  
 > Navigation Mesh
 
